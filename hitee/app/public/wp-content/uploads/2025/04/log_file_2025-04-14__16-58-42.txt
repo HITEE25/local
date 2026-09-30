@@ -1,0 +1,85 @@
+
+---Downloaded files---
+The import files for: Avantex Yoga were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://hitee.local
+Data file = /Users/hiteejitendrapatel/Local Sites/hitee/app/public/wp-content/uploads/2025/04/demo-content-import-file_2025-04-14__16-58-42.xml
+Widget file = /Users/hiteejitendrapatel/Local Sites/hitee/app/public/wp-content/uploads/2025/04/demo-widgets-import-file_2025-04-14__16-58-42.json
+Customizer file = /Users/hiteejitendrapatel/Local Sites/hitee/app/public/wp-content/uploads/2025/04/demo-customizer-import-file_2025-04-14__16-58-42.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Avantex Footer Widget 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Avantex Footer Widget 2 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Avantex Footer Widget 3 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
